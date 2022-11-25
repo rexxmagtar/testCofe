@@ -2,7 +2,7 @@
   "name": "tasty-master",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "\u001b[D\u001bhtml)",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
